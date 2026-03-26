@@ -1,0 +1,11 @@
+# Multi-Agent Hospitality System — Dependencies
+# Install with: pip install -r requirements.txt
+
+crewai>=0.11.0
+langchain-groq>=0.2.0
+langchain-community>=0.3.0
+duckduckgo-search>=6.0.0
+python-dotenv>=1.0.1
+streamlit>=1.40.0
+Pillow>=10.0.0
+requests>=2.31.0
